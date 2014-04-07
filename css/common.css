@@ -1,0 +1,85 @@
+#playground{
+	margin-top: 100px;
+	font-family: 'Roboto', sans-serif;
+}
+
+#header {
+	font-size: 48px;
+	color: #0F4FAB;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-weight: 700;
+	margin-bottom: 10px;
+}
+
+p {
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.col-centered {
+	float: none;
+	margin: 0 auto;
+}
+
+.done-true {
+	text-decoration: line-through;
+	color: gray;
+}
+
+.add-bar {
+	font-size: 20px;
+}
+
+.top-nav {
+	height: 50px;
+	font-size: 12px;
+}
+
+.btn {
+	margin-bottom: 7px;
+	margin-left: 25px;
+}
+
+.shadow {
+  -moz-box-shadow:    1px 1px 5px 1px #ccc;
+  -webkit-box-shadow: 1px 1px 5px 1px #ccc;
+  box-shadow:         1px 1px 5px 1px #ccc;
+}
+
+#top, #bottom {
+	padding-top: 25px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+input[type=radio], input[type=checkbox] {
+	margin-right: 15px;
+}
+
+.close {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 18px;
+  color: #000000;
+  text-shadow: 0 1px 0 #ffffff;
+  opacity: 0.2;
+  filter: alpha(opacity=20);
+  text-decoration: none;
+}
+
+.close:hover {
+  color: #000000;
+  text-decoration: none;
+  opacity: 0.4;
+  filter: alpha(opacity=40);
+  cursor: pointer;
+}
+
+#bottom li {
+	background-color: #66A3D2;
+	padding: 10px;
+}
