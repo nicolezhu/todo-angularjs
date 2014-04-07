@@ -1,13 +1,4 @@
-#App
+A to-do app made with AngularJS.
 
-The Github Repo of Angular-js App.
-
-##Contact
-
-1. [Twitter](http://twitter.com/techiejayk)
-1. [Website](http://jaykanakiya.com/)
-1. [Email](mailto:kanakiyajay@gmail.com)
-
-##LICENSE
-
-MIT
+Made with help from:
+ [Website](http://jaykanakiya.com/demos/angular-js-todolist/#)
